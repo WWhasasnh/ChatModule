@@ -1,0 +1,23 @@
+﻿---
+ID: ecd50a2c-615a-477d-9b18-c196fd7b73e4
+Parent: dac24edd-44fb-42ef-9ecd-1e8daf706386
+Template: ca0ce5e2-c9b8-47f8-8284-394f9bc11cfd
+Path: /sitecore/content/Habitat/Home/Chat
+SharedFields:
+- ID: 4c9312a5-2e4e-42f8-ab6f-b8db8b82bf22
+  # __Controller
+  Value: Sitecore.Feature.Chat.Controller.ChatController, Sitecore.Feature.Chat
+- ID: 9fb734cc-8952-4072-a2d4-40f890e16f56
+  # __Controller Action
+  Value: Index
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160130T080454Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
